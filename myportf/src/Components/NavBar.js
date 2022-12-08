@@ -3,7 +3,7 @@ import Typography from '@mui/material/Typography';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
-
+// remember to change word
 export default function NavBar(){
     return (
         <Box>
