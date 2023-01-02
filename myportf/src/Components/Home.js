@@ -9,7 +9,7 @@ export default function Home() {
       sx={{
         position: 'relative',
         width: '95%',
-        backgroundColor: /* '#020509' */ '#2d3033',
+        backgroundColor: '#2d3033',
         float: 'right',
         height: '100vh',
       }}
